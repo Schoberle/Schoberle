@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/3fa67731-176a-43e0-866f-24712e384742"  />
+  <img height="400" src="https://github.com/user-attachments/assets/3fa67731-176a-43e0-866f-24712e384742"  />
 </div>
 
 ###
@@ -57,11 +57,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/schoberle/schoberle/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=schoberle&theme=dracula" alt="Layout with last medium posts"  />
-</div>
 
 ###
