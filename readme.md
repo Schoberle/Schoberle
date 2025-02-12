@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href=https://www.linkedin.com/in/renan-schoberle-44552622b/><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Welcome to my profile!<br><br>My name is Renan, 20 years old I am a professional passionate about technology and Innovation, Analysis and systems development motivated by change, I seek to improve my knowledge whenever I can!<br><br>📍 São Paulo<br><br>📚 I'm currently learning Javascript and React<br><br>💼 Open to internship proposals</p>
+<p align="left">Welcome to my profile!<br><br>My name is Renan, 21 years old I am a professional passionate about technology and Innovation, Analysis and systems development motivated by change, I seek to improve my knowledge whenever I can!<br><br>📍 São Paulo<br><br>📚 I'm currently learning javascript,Html, CSS and React<br><br>💼 Open to internship proposals</p>
 
 ###
 
@@ -53,9 +53,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=schoberle&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/schoberle/schoberle/output/snake.svg" alt="Snake animation" />
 
 ###
