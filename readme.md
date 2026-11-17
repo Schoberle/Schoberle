@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Welcome to my profile!<br><br>My name is Renan, 21 years old I am a professional passionate about technology and Innovation, Analysis and systems development motivated by change, I seek to improve my knowledge whenever I can!<br><br>📍 São Paulo<br><br>📚 I'm currently learning javascript,Html, CSS and React<br><br>💼 Open to internship proposals</p>
+<p align="left">Welcome to my profile!<br><br>My name is Renan, 23 years old I am a professional passionate about technology and Innovation, Analysis and systems development motivated by change, I seek to improve my knowledge whenever I can!<br><br>📍 São Paulo<br><br>📚 I'm currently learning javascript,Html, CSS and React<br><br>💼 Open to internship proposals</p>
 
 ###
 
